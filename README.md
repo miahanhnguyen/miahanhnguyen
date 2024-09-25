@@ -2,7 +2,7 @@
 
 I'm Mia, I'm a data enthusiast
 
-## About me 👩🏻:
+## About me 🌻:
 - 🧬 A molecular biology scientist who turns data into insights to solve problems and support decision-making
 - ⏳ Transition into Data Science
 - 📊 I love Data Visualisation and interactive charts, my favorite libraries are ggplot2 (R) and seaborn (Python)
