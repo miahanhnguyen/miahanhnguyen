@@ -1,6 +1,6 @@
-# Hi there 👋
+# Introducing me 👋
 
-I'm Mia, I'm a data enthusiast
+Hi, I'm Mia, I'm a data enthusiast
 
 ## About me 🌻:
 - 🧬 A molecular biology scientist who turns data into insights to solve problems and support decision-making
@@ -13,4 +13,7 @@ I'm Mia, I'm a data enthusiast
 - Developing time series R model to study trend and seasonality
 - Developing machine learning model using sklearn Python to predict malignant breast cancer diagnosis
 - Using PostgreSQL to manage and analyze student data for insights and reporting
+
+## Connect with me 🖐️
+LinkedIn (https://www.linkedin.com/in/mialhnguyen/)
 
