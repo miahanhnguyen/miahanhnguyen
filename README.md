@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Mia, I'm a data enthusiast
 
@@ -7,5 +7,10 @@ I'm Mia, I'm a data enthusiast
 - ⏳ Transition into Data Science
 - 📊 I love Data Visualisation and interactive charts, my favorite libraries are ggplot2 (R) and seaborn (Python)
 - 🧮 I use Excel dynamic array functions and formulas to optimise and automate my workflow
-- 🛠️ I'm currently working on SQL, Python and Tableau projects 
+
+## My projects 🛠️:
+- Building scrolly story by R shiny dashboard to gain insight from COVID-19 dataset in Canada 2020
+- Developing time series R model to study trend and seasonality
+- Developing machine learning model using sklearn Python to predict malignant breast cancer diagnosis
+- Using PostgreSQL to manage and analyze student data for insights and reporting
 
