@@ -15,5 +15,5 @@ Hi, I'm Mia, I'm a data enthusiast
 - Using PostgreSQL to manage and analyze student data for insights and reporting
 
 ## Connect with me 🖐️
-[LinkedIn] (https://www.linkedin.com/in/mialhnguyen/)
+[LinkedIn]([url](https://www.linkedin.com/in/mialhnguyen/))
 
