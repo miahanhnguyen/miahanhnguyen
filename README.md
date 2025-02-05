@@ -1,6 +1,5 @@
-# Introducing me 👋
-
-Hi, I'm Mia, I'm a data enthusiast
+# About me 👋
+Data Scientist and Research Associate with a strong background in analytics, data visualization, and machine learning. Experienced in collecting and analyzing complex datasets, supporting business decisions, and developing interactive dashboards and reports using Power BI. Skilled in identifying patterns, ensuring data accuracy, automating data processes, and improving efficiency. Adept at conducting statistical analysis and managing multiple projects in fast-paced environments. Passionate about delivering value-driven analytics to support research and business strategy.
 
 ## About me 🌻:
 - 🧬 A molecular biology scientist who turns data into insights to solve problems and support decision-making
