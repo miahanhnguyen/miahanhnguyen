@@ -6,9 +6,9 @@ Data Scientist and Research Associate with a strong background in analytics, dat
 |Project name| Method| Summary|
 |------------|-------|--------|
 |Fresh Segments - Customer Interest Analysis|abc|
-- A digital marketing agency specialises in analysing online ad click behavior for businesses.
-- Clients provide customer lists, which are used to aggregate interest metrics, generating a dataset that ranks and quantifies customer interactions with various online interests on a monthly basis.
-- Analysing client’s aggregated data to derive high-level insights into customer interests and behavior.|
+A digital marketing agency specialises in analysing online ad click behavior for businesses.
+Clients provide customer lists, which are used to aggregate interest metrics, generating a dataset that ranks and quantifies customer interactions with various online interests on a monthly basis.
+Analysing client’s aggregated data to derive high-level insights into customer interests and behavior.|
 ## Python
 
 ## PowerBI/ Tableau
