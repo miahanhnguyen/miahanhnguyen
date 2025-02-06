@@ -30,11 +30,6 @@ Data Scientist and Research Associate with a strong background in analytics, dat
 |Sales data visualisation|PowerBI|abc|
 |Inventory management dashboard|PowerBI|abc|
 
-- Building scrolly story by R shiny dashboard to gain insight from COVID-19 dataset in Canada 2020
-- Developing time series R model to study trend and seasonality
-- Developing machine learning model using sklearn Python to predict malignant breast cancer diagnosis
-- Using PostgreSQL to manage and analyze student data for insights and reporting
-
 # Connect with me 🔗
 [LinkedIn](https://www.linkedin.com/in/mialhnguyen/)
 
