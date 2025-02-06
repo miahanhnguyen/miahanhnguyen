@@ -5,20 +5,20 @@ Data Scientist and Research Associate with a strong background in analytics, dat
 ## SQL
 |Project name| Skills| Summary|
 |------------|-------|--------|
-|Data-driven restaurant operations|Data extraction, transformation and aggregation|The business has basic operational data and requires assistance in leveraging it to improve performance and ensure sustainability.|
-|Data-driven delivery service optimisation|Data cleaning and transformation|A delivery service leverages data analytics to optimize operations, manage orders via a mobile app, and drive business expansion through innovative strategies.|
-|Data-driven streaming service|Data aggregation. Data analysis|Analysing subscription data to guide business decisions and feature development.|
-|Sales impact of sustainability changes|SQL|An online fresh produce supermarket adopted fully sustainable packaging. The task is to assess its impact on sales, identify affected areas, and develop strategies to minimize future disruptions.|
-|Digital banking & secure data storage|Cumulative calculation. Trend analysis|A digital bank combining finance with secure data storage needs help analyzing customer data needs, forecasting storage demands, and planning growth strategies.|
-|E-commerce funnel analysis|SQL|Analysing customer behavior by identifying drop-off points in the purchase process and optimizing conversion rates.|
-|Sales performance analysis|Data exploration and transformation|A fashion brand for modern adventurers seeks analysis of sales performance and a financial report to support merchandising and business insights.|
-|Customer interest analysis|Statistical and trend analysis. Business insights. Segment analysis. Data visualisation|A digital marketing agency analyzes online ad clicks to generate insights into customer interests and behavior from aggregated client data.|
+|[Data-driven restaurant operations](https://github.com/miahanhnguyen/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner.md)|Data extraction, transformation and aggregation|The business has basic operational data and requires assistance in leveraging it to improve performance and ensure sustainability.|
+|[Data-driven delivery service optimisation](https://github.com/miahanhnguyen/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)|Data cleaning and transformation|A delivery service leverages data analytics to optimize operations, manage orders via a mobile app, and drive business expansion through innovative strategies.|
+|[Data-driven streaming service](https://github.com/miahanhnguyen/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi.md)|Data aggregation. Data analysis|Analysing subscription data to guide business decisions and feature development.|
+|[Digital banking & secure data storage](https://github.com/miahanhnguyen/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank.md)|Cumulative calculation. Trend analysis|A digital bank combining finance with secure data storage needs help analyzing customer data needs, forecasting storage demands, and planning growth strategies.|
+|[Sales impact of sustainability changes](https://github.com/miahanhnguyen/8-Week-SQL-Challenge/blob/main/Case%20Study%20%235%20-%20Data%20Mart.md)|SQL|An online fresh produce supermarket adopted fully sustainable packaging. The task is to assess its impact on sales, identify affected areas, and develop strategies to minimize future disruptions.|
+|[E-commerce funnel analysis](https://github.com/miahanhnguyen/8-Week-SQL-Challenge/blob/main/Case%20Study%20%236%20-%20Clique%20Bait.md)|SQL|Analysing customer behavior by identifying drop-off points in the purchase process and optimizing conversion rates.|
+|[Sales performance analysis](https://github.com/miahanhnguyen/8-Week-SQL-Challenge/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co.md)|Data exploration and transformation|A fashion brand for modern adventurers seeks analysis of sales performance and a financial report to support merchandising and business insights.|
+|[Customer interest analysis](https://github.com/miahanhnguyen/8-Week-SQL-Challenge/blob/main/Case%20Study%20%238%20-%20Fresh%20Segments.md)|Statistical and trend analysis. Business insights. Segment analysis. Data visualisation|A digital marketing agency analyzes online ad clicks to generate insights into customer interests and behavior from aggregated client data.|
 
 ## Python
 |Project name| Skills| Summary|
 |------------|-------|--------|
 |Home loan origination score card|Feature engineering. Credit risk modeling. Logistic regression. Data preprocessing. Business intelligence|Developed a data-driven home loan origination scorecard to assess borrower risk and improve decision-making for financial institutions. Designed and implemented a predictive model using Python, leveraging credit history, existing debt, and financial behavior data. The project focused on optimizing risk assessment, enhancing model interpretability, and aligning with banking industry standards.|
-|ICU mortality prediction rate|Machine learning. Data wrangling. Feature importance|Built a predictive model to estimate ICU mortality risk within the first 24 hours of admission using the MIMIC-III dataset. Applied logistic regression, decision trees, random forests, and gradient boosting models to analyze patient vitals and medical history.|
+|[ICU mortality prediction rate](https://github.com/miahanhnguyen/ICU-mortality-prediction-rate/blob/main/ICU_mortality_prediction.ipynb)|Machine learning. Data wrangling. Feature importance|Built a predictive model to estimate ICU mortality risk within the first 24 hours of admission using the MIMIC-III dataset. Applied logistic regression, decision trees, random forests, and gradient boosting models to analyze patient vitals and medical history.|
 
 ## PowerBI/ Tableau
 |Project name| Skills| Summary|
