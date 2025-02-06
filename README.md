@@ -18,7 +18,7 @@ Data Scientist and Research Associate with a strong background in analytics, dat
 |Project name| Skills| Summary|
 |------------|-------|--------|
 |Home loan origination score card|Feature engineering. Credit risk modeling. Logistic regression. Data preprocessing. Business intelligence|Developed a data-driven home loan origination scorecard to assess borrower risk and improve decision-making for financial institutions. Designed and implemented a predictive model using Python, leveraging credit history, existing debt, and financial behavior data. The project focused on optimizing risk assessment, enhancing model interpretability, and aligning with banking industry standards.|
-|[ICU mortality prediction rate](https://github.com/miahanhnguyen/ICU-mortality-prediction-rate/blob/main/ICU_mortality_prediction.ipynb)|Machine learning. Data wrangling. Feature importance|Built a predictive model to estimate ICU mortality risk within the first 24 hours of admission using the MIMIC-III dataset. Applied logistic regression, decision trees, random forests, and gradient boosting models to analyze patient vitals and medical history.|
+|[ICU mortality prediction rate](https://github.com/miahanhnguyen/ICU-mortality-prediction-rate/blob/main/README.md)|Machine learning. Data wrangling. Feature importance|Built a predictive model to estimate ICU mortality risk within the first 24 hours of admission using the MIMIC-III dataset. Applied logistic regression, decision trees, random forests, and gradient boosting models to analyze patient vitals and medical history.|
 
 ## PowerBI/ Tableau
 |Project name| Skills| Summary|
