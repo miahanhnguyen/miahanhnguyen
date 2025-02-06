@@ -3,7 +3,8 @@ Data Scientist and Research Associate with a strong background in analytics, dat
 
 # My projects 🛠️:
 ## SQL
-
+|Project name| Tool/ Method| Summary|
+|---|---|---|---|
 ## Python
 
 ## PowerBI/ Tableau
