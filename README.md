@@ -5,7 +5,7 @@ Data Scientist and Research Associate with a strong background in analytics, dat
 ## SQL
 |Project name| Skills| Summary|
 |------------|-------|--------|
-|Data-driven restaurant operations|SQL|The business has basic operational data and requires assistance in leveraging it to improve performance and ensure sustainability.|
+|Data-driven restaurant operations|Data extraction, transformation and aggregation|The business has basic operational data and requires assistance in leveraging it to improve performance and ensure sustainability.|
 |Data-driven delivery service optimisation|SQL|A delivery service leverages data analytics to optimize operations, manage orders via a mobile app, and drive business expansion through innovative strategies.|
 |Data-driven streaming service|SQL|Analysing subscription data to guide business decisions and feature development.|
 |Sales impact of sustainability changes|SQL|An online fresh produce supermarket adopted fully sustainable packaging. The task is to assess its impact on sales, identify affected areas, and develop strategies to minimize future disruptions.|
