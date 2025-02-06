@@ -7,7 +7,7 @@ Data Scientist and Research Associate with a strong background in analytics, dat
 |------------|-------|--------|
 |Data-driven restaurant operations|Data extraction, transformation and aggregation|The business has basic operational data and requires assistance in leveraging it to improve performance and ensure sustainability.|
 |Data-driven delivery service optimisation|Data cleaning and transformation|A delivery service leverages data analytics to optimize operations, manage orders via a mobile app, and drive business expansion through innovative strategies.|
-|Data-driven streaming service|SQL|Analysing subscription data to guide business decisions and feature development.|
+|Data-driven streaming service|Data aggregation. Data analysis|Analysing subscription data to guide business decisions and feature development.|
 |Sales impact of sustainability changes|SQL|An online fresh produce supermarket adopted fully sustainable packaging. The task is to assess its impact on sales, identify affected areas, and develop strategies to minimize future disruptions.|
 |Digital banking & secure data storage|Cumulative calculation. Trend analysis|A digital bank combining finance with secure data storage needs help analyzing customer data needs, forecasting storage demands, and planning growth strategies.|
 |E-commerce funnel analysis|SQL|Analysing customer behavior by identifying drop-off points in the purchase process and optimizing conversion rates.|
