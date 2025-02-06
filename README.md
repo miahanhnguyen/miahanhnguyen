@@ -6,10 +6,10 @@ Data Scientist and Research Associate with a strong background in analytics, dat
 |Project name| Method| Summary|
 |------------|-------|--------|
 |Sales impact of sustainability changes|SQL|An online fresh produce supermarket adopted fully sustainable packaging. The task is to assess its impact on sales, identify affected areas, and develop strategies to minimize future disruptions.|
-|Digital banking & secure data storage|SQL|A next-generation digital bank that integrates traditional banking with secure distributed data storage. The management team seeks assistance in analysing customer data needs, forecasting storage demands, and developing strategies to grow their customer base. This case study focuses on calculating key metrics, tracking growth, and leveraging data analytics for business planning.|
+|Digital banking & secure data storage|SQL|A digital bank combining finance with secure data storage needs help analyzing customer data needs, forecasting storage demands, and planning growth strategies.|
 |E-commerce funnel analysis|SQL|This case study focuses on analysing customer behavior by calculating funnel fallout rates. The goal is to identify where potential customers drop off in the purchasing process and develop strategies to improve conversion rates.|
-|Sales performance analysis|SQL|A fashion brand focused on providing optimised clothing and lifestyle wear for modern adventurers. The task is to analyse sales performance and generating a financial report to provide insights for the merchandising team and share key financial metrics with the broader business.|
-|Customer interest analysis|SQL| A digital marketing agency specialises in analysing online ad click behavior for businesses. The goal is to analysing client’s aggregated data to derive high-level insights into customer interests and behavior.|
+|Sales performance analysis|SQL|A fashion brand for modern adventurers seeks analysis of sales performance and a financial report to support merchandising and business insights.|
+|Customer interest analysis|SQL|A digital marketing agency specialises in analysing online ad click behavior for businesses. The goal is to analysing client’s aggregated data to derive high-level insights into customer interests and behavior.|
 ## Python
 
 ## PowerBI/ Tableau
