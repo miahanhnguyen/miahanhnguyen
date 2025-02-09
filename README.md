@@ -3,6 +3,13 @@ Data Scientist and Research Associate with a strong background in analytics, dat
 
 # My projects 🛠️:
 A comprehensive overview of my projects. Click on any project name to explore further.  
+## Python
+|Project name| Skills| Summary|
+|------------|-------|--------|
+|[TikTok engagement prediction model](https://github.com/miahanhnguyen/TikTok-engagement-prediction)|Machine learning|Engineered a TikTok engagement prediction model, leveraging machine learning and advanced feature engineering to identify key factors influencing user interaction and optimize content strategies. Developed a sentiment analysis framework to assess caption sentiment and its impact on user engagement, driving actionable insights for content optimization.|
+|Home loan origination score card|Feature engineering. Credit risk modeling. Logistic regression. Data preprocessing. Business intelligence|Developed a data-driven home loan origination scorecard to assess borrower risk and improve decision-making for financial institutions. Designed and implemented a predictive model using Python, leveraging credit history, existing debt, and financial behavior data. The project focused on optimizing risk assessment, enhancing model interpretability, and aligning with banking industry standards.|
+|[ICU mortality prediction rate](https://github.com/miahanhnguyen/ICU-mortality-prediction-rate/blob/main/README.md)|Machine learning. Data wrangling. Feature importance|Built a predictive model to estimate ICU mortality risk within the first 24 hours of admission using the MIMIC-III dataset. Applied logistic regression, decision trees, random forests, and gradient boosting models to analyze patient vitals and medical history.|
+
 ## SQL
 |Project name| Skills| Summary|
 |------------|-------|--------|
@@ -14,13 +21,6 @@ A comprehensive overview of my projects. Click on any project name to explore fu
 |E-commerce funnel analysis|SQL|Analysing customer behavior by identifying drop-off points in the purchase process and optimizing conversion rates.|
 |Sales performance analysis|Data exploration and transformation|A fashion brand for modern adventurers seeks analysis of sales performance and a financial report to support merchandising and business insights.|
 |Customer interest analysis|Statistical and trend analysis. Business insights. Segment analysis. Data visualisation|A digital marketing agency analyzes online ad clicks to generate insights into customer interests and behavior from aggregated client data.|
-
-## Python
-|Project name| Skills| Summary|
-|------------|-------|--------|
-|[TikTok engagement prediction model](https://github.com/miahanhnguyen/TikTok-engagement-prediction)|Machine learning|Engineered a TikTok engagement prediction model, leveraging machine learning and advanced feature engineering to identify key factors influencing user interaction and optimize content strategies. Developed a sentiment analysis framework to assess caption sentiment and its impact on user engagement, driving actionable insights for content optimization.|
-|Home loan origination score card|Feature engineering. Credit risk modeling. Logistic regression. Data preprocessing. Business intelligence|Developed a data-driven home loan origination scorecard to assess borrower risk and improve decision-making for financial institutions. Designed and implemented a predictive model using Python, leveraging credit history, existing debt, and financial behavior data. The project focused on optimizing risk assessment, enhancing model interpretability, and aligning with banking industry standards.|
-|[ICU mortality prediction rate](https://github.com/miahanhnguyen/ICU-mortality-prediction-rate/blob/main/README.md)|Machine learning. Data wrangling. Feature importance|Built a predictive model to estimate ICU mortality risk within the first 24 hours of admission using the MIMIC-III dataset. Applied logistic regression, decision trees, random forests, and gradient boosting models to analyze patient vitals and medical history.|
 
 ## PowerBI/ Tableau
 |Project name| Skills| Summary|
